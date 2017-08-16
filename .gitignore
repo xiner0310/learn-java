@@ -1,0 +1,5 @@
+
+.gradle/
+.idea/
+service-learn/out/
+service-learn/build/
