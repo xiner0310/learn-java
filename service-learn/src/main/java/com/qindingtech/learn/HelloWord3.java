@@ -59,7 +59,7 @@ class People {
         protected student() {
             System.out.println("访问外部类中的name：" + (new People().name));
             System.out.println("访问外部类中的ID：" + People.ID);
-            System.out.println("访问内部类中的ID：" + ID);
+            System.out.println("访问内部类git中的ID：" + ID);
         }
 
         void stuInfo() {
