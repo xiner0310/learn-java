@@ -5,4 +5,5 @@ package com.qindingtech.learn2;
  */
 public class People {
 
+
 }
